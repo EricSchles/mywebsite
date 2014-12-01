@@ -40,7 +40,6 @@ colorama==0.2.5
 coverage==3.7.1
 cssmin==0.1.4
 cssselect==0.9.1
-debtagshw==0.1
 decorator==3.4.0
 defer==1.0.6
 defusedxml==0.4.1
