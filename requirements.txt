@@ -52,7 +52,7 @@ grequests==0.2.0
 gunicorn==0.14.6
 html5lib==0.999
 httpie==0.7.2
-httplib2==0.9
+httplib2==0.19.0
 ipaddr==2.1.11
 jsmin==2.0.2
 lockfile==0.9.1
