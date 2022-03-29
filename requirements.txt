@@ -62,7 +62,7 @@ oauth2==1.5.211
 oauth2client==1.1
 oauthlib==0.6.0
 pandas==0.14.1
-paramiko==1.15.1
+paramiko==2.10.1
 patsy==0.3.0
 pdfminer==20140328
 peewee==2.3.0
